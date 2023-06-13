@@ -7,14 +7,22 @@ Project Description:
 Create an additional eye that tracks the movement of the mouse on the webpage. The code for one eye was already given and was to be modified.
 
 How to Run:
-A. Download files from repository
-B. Load 'index.html' in a web browser page
+A. Download files from the 'Eye-Exercise' repository
+B. Ensure all downloaded files are in the same folder 
+C. Load 'index.html' in a web browser page (eg: Google Chrome) by dragging and dropping
 C. Move the mouse to see the eyes track the movement
+
+Project Status:
+Ongoing (last updated 06132023)
 
 Roadmap of Future Improvements:
 A. Create additional facial features
 B. Add eye color customization
-C. Add additioanl eyes
+C. Add additional eyes
+
+Authors:
+MITx Pro Staff
+Nicholas Vaughan
 
 License Information:
 MIT License
